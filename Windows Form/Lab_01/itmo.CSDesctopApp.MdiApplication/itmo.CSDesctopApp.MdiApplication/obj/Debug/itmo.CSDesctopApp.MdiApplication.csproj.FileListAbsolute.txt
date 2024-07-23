@@ -1,0 +1,11 @@
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\bin\Debug\itmo.CSDesctopApp.MdiApplication.exe.config
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\bin\Debug\itmo.CSDesctopApp.MdiApplication.exe
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\bin\Debug\itmo.CSDesctopApp.MdiApplication.pdb
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\obj\Debug\itmo.CSDesctopApp.MdiApplication.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\obj\Debug\itmo.CSDesctopApp.MdiApplication.ParentForm.resources
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\obj\Debug\itmo.CSDesctopApp.MdiApplication.Properties.Resources.resources
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\obj\Debug\itmo.CSDesctopApp.MdiApplication.csproj.GenerateResource.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\obj\Debug\itmo.CSDesctopApp.MdiApplication.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\obj\Debug\itmo.CSDesctopApp.MdiApplication.exe
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\obj\Debug\itmo.CSDesctopApp.MdiApplication.pdb
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\Lab_01\itmo.CSDesctopApp.MdiApplication\itmo.CSDesctopApp.MdiApplication\obj\Debug\itmo.CSDesctopApp.MdiApplication.ChildForm.resources
