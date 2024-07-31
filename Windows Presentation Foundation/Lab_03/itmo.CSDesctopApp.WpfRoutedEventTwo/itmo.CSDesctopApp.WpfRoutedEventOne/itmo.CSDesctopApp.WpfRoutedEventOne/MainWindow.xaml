@@ -1,0 +1,16 @@
+﻿<Window TextBoxBase.TextChanged="Window_TextChanged"  x:Class="itmo.CSDesctopApp.WpfRoutedEventOne.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:itmo.CSDesctopApp.WpfRoutedEventOne"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid TextBoxBase.TextChanged="Grid_TextChanged">
+        <TextBox HorizontalAlignment="Left" Margin="321,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="120" TextChanged="TextBox_TextChanged"/>
+        <RadioButton x:Name="radBut1" Content="Textbox" HorizontalAlignment="Left" Margin="217,177,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radBut2" Content="Grid" HorizontalAlignment="Left" Margin="217,211,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radBut3" Content="Window" HorizontalAlignment="Left" Margin="217,247,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\bin\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.exe.config
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\bin\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.exe
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\bin\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.pdb
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\MainWindow.g.cs
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\App.g.cs
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne_MarkupCompile.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne_MarkupCompile.lref
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\MainWindow.baml
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.g.resources
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.Properties.Resources.resources
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.csproj.GenerateResource.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.exe
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfRoutedEventOne\itmo.CSDesctopApp.WpfRoutedEventOne\obj\Debug\itmo.CSDesctopApp.WpfRoutedEventOne.pdb
