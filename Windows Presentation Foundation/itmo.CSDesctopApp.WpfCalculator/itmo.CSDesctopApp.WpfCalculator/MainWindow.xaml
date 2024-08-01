@@ -1,0 +1,138 @@
+﻿<Window x:Class="itmo.CSDesctopApp.WpfCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:itmo.CSDesctopApp.WpfCalculator"
+        mc:Ignorable="d"
+        Title="Calculator" Height="500" Width="350" Background="#FFE3FBFF">
+    <Window.Effect>
+        <DropShadowEffect/>
+    </Window.Effect>
+    <Grid x:Name="Main">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="txtBlock" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" FontSize="48" FontFamily="Arial" FontWeight="Bold" Foreground="Black" Background="#FFEFFBFF"/>
+        <Button Grid.Column="0" Grid.Row="2" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF" RenderTransformOrigin="0.5,0.5">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0" Y="0"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            1
+        </Button>
+        <Button Grid.Column="1" Grid.Row="2" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 2
+        </Button>
+        <Button Grid.Column="2" Grid.Row="2" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 3
+        </Button>
+        <Button Grid.Column="3" Grid.Row="2" FontSize="36" Margin="2,2,2,2" Background="#FF90FFBB">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> *
+        </Button>
+        <Button Grid.Column="0" Grid.Row="3" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 4
+        </Button>
+        <Button Grid.Column="1" Grid.Row="3" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 5
+        </Button>
+        <Button Grid.Column="2" Grid.Row="3" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 6
+        </Button>
+        <Button Grid.Column="0" Grid.Row="4" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 7
+        </Button>
+        <Button Grid.Column="1" Grid.Row="4" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 8
+        </Button>
+        <Button Grid.Column="2" Grid.Row="4" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 9
+        </Button>
+        <Button Grid.Column="1" Grid.Row="5" FontSize="36" Margin="2,2,2,2" Background="#FFE3FBFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> 0
+        </Button>
+        <Button Grid.Column="0" Grid.Row="5" FontSize="36" Margin="2,2,2,2" Background="#FFF18282">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> CE
+        </Button>
+        <Button Grid.Column="3" Grid.Row="3" FontSize="36" Margin="2,2,2,2" Background="#FF90FFBB">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> +
+        </Button>
+        <Button Grid.Column="3" Grid.Row="4" FontSize="36" Margin="2,2,2,2" Background="#FF90FFBB">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> -
+        </Button>
+        <Button Grid.Column="2" Grid.Row="5" FontSize="36" Margin="2,2,2,2" Background="#FF90FFBB">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> /
+        </Button>
+        <Button Grid.Column="4" Grid.Row="5" FontSize="36" Margin="2,2,2,2" Background="#FFB8BAFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> =
+        </Button>
+        <Button Grid.Column="0" Grid.Row="1" FontSize="36" Margin="2,2,2,2" Background="#FFB8BAFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> √
+        </Button>
+        <Button Grid.Column="3" Grid.Row="1" FontSize="36" Margin="2,2,2,2" Background="#FFB8BAFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> ⌫
+        </Button>
+        <Button Grid.Column="1" Grid.Row="1" FontSize="36" Margin="2,2,2,2" Background="#FFB8BAFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> %
+        </Button>
+        <Button Grid.Column="2" Grid.Row="1" FontSize="36" Margin="2,2,2,2" Background="#FFB8BAFF">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect> x²
+        </Button>
+    </Grid>
+</Window>

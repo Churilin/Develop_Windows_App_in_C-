@@ -1,0 +1,30 @@
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\bin\Debug\itmo.CSDesctopApp.WpfCalculator.exe.config
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\bin\Debug\itmo.CSDesctopApp.WpfCalculator.exe
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\bin\Debug\itmo.CSDesctopApp.WpfCalculator.pdb
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\MainWindow.g.cs
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\App.g.cs
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator_MarkupCompile.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator_MarkupCompile.lref
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\MainWindow.baml
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.g.resources
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.Properties.Resources.resources
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.csproj.GenerateResource.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.exe
+C:\Обучение ИТМО\Разработка Windows-приложений на С#\Выполнение лабораторных\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.pdb
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\bin\Debug\itmo.CSDesctopApp.WpfCalculator.exe.config
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\bin\Debug\itmo.CSDesctopApp.WpfCalculator.exe
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\bin\Debug\itmo.CSDesctopApp.WpfCalculator.pdb
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.csproj.AssemblyReference.cache
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\MainWindow.g.cs
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\App.g.cs
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator_MarkupCompile.cache
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator_MarkupCompile.lref
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\MainWindow.baml
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.g.resources
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.Properties.Resources.resources
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.csproj.GenerateResource.cache
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.csproj.CoreCompileInputs.cache
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.exe
+D:\Разработка Windows-приложений на C#\Выполнение лабораторных\Windows Presentation Foundation\itmo.CSDesctopApp.WpfCalculator\itmo.CSDesctopApp.WpfCalculator\obj\Debug\itmo.CSDesctopApp.WpfCalculator.pdb
